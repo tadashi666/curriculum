@@ -1,0 +1,49 @@
+.a{
+  height:150px;
+  width:600px;
+  background-color: #ffff00;
+}
+
+.b{
+  height:150px;
+  width:200px;
+  background-color: #33FFFF;
+}
+
+.c{
+  height:150px;
+  width:200px;
+  background-color: #FF0000;
+}
+
+.d{
+  height:150px;
+  width:200px;
+  background-color: #0000FF;
+}
+
+.wrapper{
+  display: flex;
+}
+
+.e{
+  height:150px;
+  width:450px;
+  background-color: #00FF00;
+}
+
+.f{
+  height:150px;
+  width:150px;
+  background-color: #FF00FF;
+}
+
+.wrapper2{
+  display: flex;
+}
+
+.g{
+  height:150px;
+  width:600px;
+  background-color: #33ffff;
+}

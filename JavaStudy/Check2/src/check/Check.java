@@ -2,7 +2,7 @@ package check;
 
 import constants.Constants;
 
-public class Check {
+public class Check extends Constants {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
@@ -10,12 +10,8 @@ public class Check {
 		String lastName = "正";
 		System.out.println(printName( firstName, lastName));
 
-		String CHECK_CLASS_JAVA = "java吉";
-	    String CHECK_CLASS_HOGE = "hoge";
-	    String CHECK_CLASS_R2D2 = "R2D2";
-	    String CHECK_CLASS_LUKE = "ルーク";
 
-		Pet pet = new Pet(CHECK_CLASS_JAVA,CHECK_CLASS_HOGE);
+		Pet pet = new Pet(CHECK_CLASS_JAVA ,CHECK_CLASS_HOGE);
 		pet.introduce();
 
 		RobotPet rob = new RobotPet(CHECK_CLASS_R2D2,CHECK_CLASS_LUKE);

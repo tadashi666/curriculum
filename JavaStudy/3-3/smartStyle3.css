@@ -1,0 +1,70 @@
+@media screen and (max-width: 479px){
+
+.a{
+  width:200px;
+  height:200px;
+  position: relative;
+}
+
+.f{
+  width:200px;
+}
+
+.g{
+  width:200px;
+}
+
+.k{
+  width:200px;
+}
+
+.wrapper{
+  display: block;
+}
+
+.b{
+  display:block;
+  position: absolute;
+  left:70px;
+  top:20px;
+  height:160px;
+  width:60px;
+}
+
+.c{
+  position: absolute;
+  top:10px;
+  left:10px;
+}
+
+.d{
+  position: absolute;
+  top:60px;
+  left:10px;
+}
+
+.e{
+  position: absolute;
+  top:110px;
+  left:10px;
+}
+
+.h{
+  position: absolute;
+  top:20px;
+  left:30px;
+}
+
+.i{
+  position: absolute;
+  top:70px;
+  left:30px;
+}
+
+.j{
+  position: absolute;
+  top:130px;
+  left:30px;
+}
+
+}

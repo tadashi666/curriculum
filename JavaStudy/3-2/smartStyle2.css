@@ -1,0 +1,61 @@
+@media screen and (max-width: 767px){
+  .a{
+    width:300px;
+    position: relative;
+  }
+  .b{
+    width:100px;
+  }
+  .c{
+    width:125px;
+  }
+  .d{
+    width:125px;
+  }
+  .e{
+    width:75px;
+  }
+  .f{
+    width:200px;
+    position: absolute;
+    top:250px;
+    left:100px;
+  }
+  .g{
+    width:300px;
+  }
+
+}
+
+@media screen and (max-width: 479px){
+  .a{
+    width:150px;
+    position: relative;
+  }
+  .b{
+    width:150px;
+  }
+  .c{
+    width:150px;
+  }
+  .d{
+    width:150px;
+  }
+  .e{
+    width:150px;
+  }
+  .f{
+    width:150px;
+    position: absolute;
+    top:650px;
+    left:0px;
+  }
+  .g{
+    width:150px;
+    position: absolute;
+    top:750px;
+  }
+  .wrapper{
+    display: block;
+  }
+}

@@ -1,0 +1,27 @@
+.min-wrapper{
+  display: flex;
+}
+
+.a{
+  width:400px;
+  height:100px;
+  background-color: #141f40;
+}
+
+.b{
+  width:150px;
+  height:250px;
+  background-color: #80bfa8;
+}
+
+.c{
+  width:250px;
+  height:250px;
+  background-color: #8c2727;
+}
+
+.d{
+  width:400px;
+  height:100px;
+  background-color: #d98d30;
+}

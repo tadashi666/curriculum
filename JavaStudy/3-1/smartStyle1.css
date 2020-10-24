@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+@media screen and (max-width: 767px){
+  .a{
+    width:250px;
+  } 
+  .c{
+    width:100px;
+  }
+  .d{
+    width:250px;
+  }
+}
+
+@media screen and (max-width: 479px){
+
+  .min-wrapper{
+    display: block;
+  }
+  .a{
+    width:150px;
+  }
+  .c{
+    width:150px;
+  }
+  .d{
+    width:150px;
+  }
+}
